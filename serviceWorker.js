@@ -1,7 +1,7 @@
 var CACHE_NAME  = "MKit-cache-v1";
 var urlsToCache = [
-    "https://test.mousetronick.com/minimumPwa/",
-    "https://test.mousetronick.com/minimumPwa/index.html"
+    "https://moltu16.github.io/PWA_test.github.io/",
+    "https://moltu16.github.io/PWA_test.github.io/index.html"
 ];
 
 self.addEventListener('install', function(event) {
